@@ -50,7 +50,7 @@
     "jest-dom": "^3.1.2",
     "prettier": "^1.16.4",
     "react-testing-library": "^5.9.0",
-    "stylelint": "^9.10.1",
+    "stylelint": "^15.10.1",
     "stylelint-config-mirego": "^1.0.4",
     "stylelint-config-styled-components": "^0.1.1",
     "stylelint-processor-styled-components": "^1.5.2",
